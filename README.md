@@ -64,3 +64,4 @@ Filmler [Mocki.io](https://mocki.io) üzerinden alınmaktadır. Kullanılan API 
 
 Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın.
 
+
