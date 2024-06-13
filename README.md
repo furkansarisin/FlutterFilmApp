@@ -52,14 +52,6 @@ Bu uygulama, kullanıcılara film önerilerinde bulunmak için geliştirilmiş b
 
 Filmler [Mocki.io](https://mocki.io) üzerinden alınmaktadır. Kullanılan API endpoint: `https://mocki.io/v1/5f3633cc-5116-4b11-89d7-d21f17ce4735`.
 
-## Ekran Görüntüleri
-
-### Ana Sayfa
-![Ana Sayfa](screenshots/home_page.png)
-
-### Film Detayları
-![Film Detayları](screenshots/movie_detail_page.png)
-
 ## Katkıda Bulunma
 
 Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın.
